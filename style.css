@@ -3,3 +3,26 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 12vh;
+}
+
+.header-logo {
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
